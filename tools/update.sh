@@ -7,4 +7,4 @@ fi
 
 cd ../ &&
 git branch -M main &&
-git remote set-url origin $1
+git remote add origin $1
